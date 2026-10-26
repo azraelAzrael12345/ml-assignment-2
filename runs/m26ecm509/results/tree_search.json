@@ -1,0 +1,167 @@
+[
+  {
+    "depth": 2,
+    "min_samples_leaf": 1,
+    "fit_seconds": 0.3201699999626726,
+    "train_accuracy": 0.075,
+    "validation_accuracy": 0.075,
+    "n_leaves": 3,
+    "mean_leaf_samples": 80.0,
+    "singleton_fraction": 0.0,
+    "test_accuracy": 0.075
+  },
+  {
+    "depth": 2,
+    "min_samples_leaf": 2,
+    "fit_seconds": 0.30645140004344285,
+    "train_accuracy": 0.075,
+    "validation_accuracy": 0.075,
+    "n_leaves": 3,
+    "mean_leaf_samples": 80.0,
+    "singleton_fraction": 0.0,
+    "test_accuracy": 0.075
+  },
+  {
+    "depth": 2,
+    "min_samples_leaf": 4,
+    "fit_seconds": 0.47323459992185235,
+    "train_accuracy": 0.075,
+    "validation_accuracy": 0.075,
+    "n_leaves": 3,
+    "mean_leaf_samples": 80.0,
+    "singleton_fraction": 0.0,
+    "test_accuracy": 0.075
+  },
+  {
+    "depth": 4,
+    "min_samples_leaf": 1,
+    "fit_seconds": 0.6342056000139564,
+    "train_accuracy": 0.125,
+    "validation_accuracy": 0.1125,
+    "n_leaves": 5,
+    "mean_leaf_samples": 48.0,
+    "singleton_fraction": 0.0,
+    "test_accuracy": 0.125
+  },
+  {
+    "depth": 4,
+    "min_samples_leaf": 2,
+    "fit_seconds": 0.5887661000015214,
+    "train_accuracy": 0.125,
+    "validation_accuracy": 0.1125,
+    "n_leaves": 5,
+    "mean_leaf_samples": 48.0,
+    "singleton_fraction": 0.0,
+    "test_accuracy": 0.125
+  },
+  {
+    "depth": 4,
+    "min_samples_leaf": 4,
+    "fit_seconds": 0.564603199949488,
+    "train_accuracy": 0.125,
+    "validation_accuracy": 0.1125,
+    "n_leaves": 5,
+    "mean_leaf_samples": 48.0,
+    "singleton_fraction": 0.0,
+    "test_accuracy": 0.125
+  },
+  {
+    "depth": 8,
+    "min_samples_leaf": 1,
+    "fit_seconds": 1.2207747999345884,
+    "train_accuracy": 0.225,
+    "validation_accuracy": 0.2,
+    "n_leaves": 9,
+    "mean_leaf_samples": 26.666666666666668,
+    "singleton_fraction": 0.0,
+    "test_accuracy": 0.225
+  },
+  {
+    "depth": 8,
+    "min_samples_leaf": 2,
+    "fit_seconds": 1.1236435000319034,
+    "train_accuracy": 0.225,
+    "validation_accuracy": 0.2,
+    "n_leaves": 9,
+    "mean_leaf_samples": 26.666666666666668,
+    "singleton_fraction": 0.0,
+    "test_accuracy": 0.225
+  },
+  {
+    "depth": 8,
+    "min_samples_leaf": 4,
+    "fit_seconds": 1.1378033999353647,
+    "train_accuracy": 0.225,
+    "validation_accuracy": 0.2,
+    "n_leaves": 9,
+    "mean_leaf_samples": 26.666666666666668,
+    "singleton_fraction": 0.0,
+    "test_accuracy": 0.225
+  },
+  {
+    "depth": 16,
+    "min_samples_leaf": 1,
+    "fit_seconds": 2.4622026999713853,
+    "train_accuracy": 0.5458333333333333,
+    "validation_accuracy": 0.45,
+    "n_leaves": 22,
+    "mean_leaf_samples": 10.909090909090908,
+    "singleton_fraction": 0.0,
+    "test_accuracy": 0.4125
+  },
+  {
+    "depth": 16,
+    "min_samples_leaf": 2,
+    "fit_seconds": 2.1628352999687195,
+    "train_accuracy": 0.5458333333333333,
+    "validation_accuracy": 0.45,
+    "n_leaves": 22,
+    "mean_leaf_samples": 10.909090909090908,
+    "singleton_fraction": 0.0,
+    "test_accuracy": 0.4125
+  },
+  {
+    "depth": 16,
+    "min_samples_leaf": 4,
+    "fit_seconds": 2.014975900063291,
+    "train_accuracy": 0.5458333333333333,
+    "validation_accuracy": 0.45,
+    "n_leaves": 22,
+    "mean_leaf_samples": 10.909090909090908,
+    "singleton_fraction": 0.0,
+    "test_accuracy": 0.4125
+  },
+  {
+    "depth": null,
+    "min_samples_leaf": 1,
+    "fit_seconds": 2.5791803000029176,
+    "train_accuracy": 1.0,
+    "validation_accuracy": 0.6125,
+    "n_leaves": 48,
+    "mean_leaf_samples": 5.0,
+    "singleton_fraction": 0.125,
+    "test_accuracy": 0.6375
+  },
+  {
+    "depth": null,
+    "min_samples_leaf": 2,
+    "fit_seconds": 2.5950788999907672,
+    "train_accuracy": 0.9791666666666666,
+    "validation_accuracy": 0.6375,
+    "n_leaves": 46,
+    "mean_leaf_samples": 5.217391304347826,
+    "singleton_fraction": 0.0,
+    "test_accuracy": 0.6375
+  },
+  {
+    "depth": null,
+    "min_samples_leaf": 4,
+    "fit_seconds": 2.641626799944788,
+    "train_accuracy": 0.9583333333333334,
+    "validation_accuracy": 0.575,
+    "n_leaves": 41,
+    "mean_leaf_samples": 5.853658536585366,
+    "singleton_fraction": 0.0,
+    "test_accuracy": 0.5375
+  }
+]

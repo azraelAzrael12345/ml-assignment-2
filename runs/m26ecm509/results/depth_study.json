@@ -1,0 +1,80 @@
+[
+  {
+    "depth": 2,
+    "model": "tree",
+    "bias_squared": 0.9060478574938269,
+    "variance": 0.045476858011151824,
+    "brier_mse": 0.9515247155049789,
+    "mean_accuracy": 0.06541666666666666,
+    "std_accuracy": 0.009099150522432577,
+    "n_leaves": 3.0,
+    "mean_leaf_samples": 80.0,
+    "singleton_fraction": 0.0,
+    "disagreement": null
+  },
+  {
+    "depth": 2,
+    "model": "bagging",
+    "bias_squared": 0.9377760500000001,
+    "variance": 0.004944616666666667,
+    "brier_mse": 0.9427206666666667,
+    "mean_accuracy": 0.13041666666666665,
+    "std_accuracy": 0.034691269728885664,
+    "n_leaves": 3.1523333333333334,
+    "mean_leaf_samples": 76.95333333333335,
+    "singleton_fraction": 0.0,
+    "disagreement": 0.9550885521885524
+  },
+  {
+    "depth": 8,
+    "model": "tree",
+    "bias_squared": 0.7751517949468658,
+    "variance": 0.10863877964990834,
+    "brier_mse": 0.8837905745967741,
+    "mean_accuracy": 0.17458333333333334,
+    "std_accuracy": 0.029081361294008293,
+    "n_leaves": 9.233333333333333,
+    "mean_leaf_samples": 26.06060606060606,
+    "singleton_fraction": 0.0,
+    "disagreement": null
+  },
+  {
+    "depth": 8,
+    "model": "bagging",
+    "bias_squared": 0.7995808138888888,
+    "variance": 0.014536769444444445,
+    "brier_mse": 0.8141175833333333,
+    "mean_accuracy": 0.4725,
+    "std_accuracy": 0.046354146487145295,
+    "n_leaves": 10.873333333333333,
+    "mean_leaf_samples": 22.436344346743727,
+    "singleton_fraction": 0.0,
+    "disagreement": 0.925353451178451
+  },
+  {
+    "depth": null,
+    "model": "tree",
+    "bias_squared": 0.36009027777777775,
+    "variance": 0.6230347222222222,
+    "brier_mse": 0.983125,
+    "mean_accuracy": 0.5083333333333333,
+    "std_accuracy": 0.0588442323270592,
+    "n_leaves": 40.03333333333333,
+    "mean_leaf_samples": 5.995121951219512,
+    "singleton_fraction": 0.0,
+    "disagreement": null
+  },
+  {
+    "depth": null,
+    "model": "bagging",
+    "bias_squared": 0.510711436111111,
+    "variance": 0.024844397222222224,
+    "brier_mse": 0.5355558333333332,
+    "mean_accuracy": 0.7804166666666668,
+    "std_accuracy": 0.03738247868512305,
+    "n_leaves": 44.732,
+    "mean_leaf_samples": 5.374903192835324,
+    "singleton_fraction": 0.0,
+    "disagreement": 0.8163142255892257
+  }
+]

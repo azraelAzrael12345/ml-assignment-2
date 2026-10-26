@@ -1,0 +1,212 @@
+[
+  {
+    "repetition": 0,
+    "tree": 0.525,
+    "bagging": 0.725,
+    "boosting": 0.4,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 1,
+    "tree": 0.5125,
+    "bagging": 0.8625,
+    "boosting": 0.3,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 2,
+    "tree": 0.5625,
+    "bagging": 0.7875,
+    "boosting": 0.4875,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 3,
+    "tree": 0.5375,
+    "bagging": 0.75,
+    "boosting": 0.1625,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 4,
+    "tree": 0.5375,
+    "bagging": 0.775,
+    "boosting": 0.3,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 5,
+    "tree": 0.525,
+    "bagging": 0.8,
+    "boosting": 0.2375,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 6,
+    "tree": 0.55,
+    "bagging": 0.8125,
+    "boosting": 0.3875,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 7,
+    "tree": 0.4375,
+    "bagging": 0.775,
+    "boosting": 0.225,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 8,
+    "tree": 0.475,
+    "bagging": 0.75,
+    "boosting": 0.2375,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 9,
+    "tree": 0.5875,
+    "bagging": 0.8125,
+    "boosting": 0.225,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 10,
+    "tree": 0.45,
+    "bagging": 0.8,
+    "boosting": 0.2375,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 11,
+    "tree": 0.525,
+    "bagging": 0.8125,
+    "boosting": 0.4,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 12,
+    "tree": 0.5875,
+    "bagging": 0.7625,
+    "boosting": 0.5375,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 13,
+    "tree": 0.5125,
+    "bagging": 0.7625,
+    "boosting": 0.2875,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 14,
+    "tree": 0.5125,
+    "bagging": 0.725,
+    "boosting": 0.3,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 15,
+    "tree": 0.425,
+    "bagging": 0.7625,
+    "boosting": 0.25,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 16,
+    "tree": 0.55,
+    "bagging": 0.775,
+    "boosting": 0.275,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 17,
+    "tree": 0.4375,
+    "bagging": 0.85,
+    "boosting": 0.3,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 18,
+    "tree": 0.5,
+    "bagging": 0.825,
+    "boosting": 0.375,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 19,
+    "tree": 0.45,
+    "bagging": 0.7875,
+    "boosting": 0.175,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 20,
+    "tree": 0.4375,
+    "bagging": 0.775,
+    "boosting": 0.3375,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 21,
+    "tree": 0.425,
+    "bagging": 0.8375,
+    "boosting": 0.2625,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 22,
+    "tree": 0.575,
+    "bagging": 0.8125,
+    "boosting": 0.4,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 23,
+    "tree": 0.5625,
+    "bagging": 0.825,
+    "boosting": 0.2625,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 24,
+    "tree": 0.4125,
+    "bagging": 0.75,
+    "boosting": 0.2875,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 25,
+    "tree": 0.475,
+    "bagging": 0.8,
+    "boosting": 0.2625,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 26,
+    "tree": 0.5,
+    "bagging": 0.8,
+    "boosting": 0.3,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 27,
+    "tree": 0.6625,
+    "bagging": 0.725,
+    "boosting": 0.4,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 28,
+    "tree": 0.5125,
+    "bagging": 0.8375,
+    "boosting": 0.1625,
+    "boost_actual_rounds": 50
+  },
+  {
+    "repetition": 29,
+    "tree": 0.4875,
+    "bagging": 0.775,
+    "boosting": 0.3,
+    "boost_actual_rounds": 50
+  }
+]

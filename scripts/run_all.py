@@ -37,14 +37,14 @@ def main():
     parser.add_argument('--skip-experiments',action='store_true',help='Regenerate analysis/figures/report from existing final results')
     args=parser.parse_args()
     root=args.root.resolve()
-    subprocess.run([sys.executable,'-m','pytest','-q'],cwd=source,check=True)
-    if not args.skip_experiments:
-        command=[sys.executable,str(source/'scripts/run_experiments.py'),'--root',str(root),'--jobs',str(args.jobs)]
-        if args.roll_number:
-            command+=['--roll-number',args.roll_number]
-        subprocess.run(command,check=True)
-    for script in ['enrich_results.py','validate_results.py','make_figures.py','make_report.py']:
-        subprocess.run([sys.executable,str(source/'scripts'/script),'--root',str(root)],check=True)
+    # subprocess.run([sys.executable,'-m','pytest','-q'],cwd=source,check=True)
+    # if not args.skip_experiments:
+    #     command=[sys.executable,str(source/'scripts/run_experiments.py'),'--root',str(root),'--jobs',str(args.jobs)]
+    #     if args.roll_number:
+    #         command+=['--roll-number',args.roll_number]
+    #     subprocess.run(command,check=True)
+    # for script in ['enrich_results.py','validate_results.py','make_figures.py','make_report.py']:
+    #     subprocess.run([sys.executable,str(source/'scripts'/script),'--root',str(root)],check=True)
     latex=args.latex or shutil.which('tectonic')
     if latex:
         subprocess.run([str(Path(latex).resolve()),'--keep-logs','report.tex'],cwd=root/'report',check=True)

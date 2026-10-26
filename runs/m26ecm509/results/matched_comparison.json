@@ -1,0 +1,56 @@
+[
+  {
+    "model": "bagging",
+    "n_learners": 25,
+    "actual_learners": 25,
+    "train_accuracy": 1.0,
+    "validation_accuracy": 0.775,
+    "test_accuracy": 0.8375,
+    "fit_seconds": 51.76687499997206
+  },
+  {
+    "model": "boosting",
+    "n_learners": 25,
+    "actual_learners": 25,
+    "train_accuracy": 0.55,
+    "validation_accuracy": 0.2125,
+    "test_accuracy": 0.225,
+    "fit_seconds": 15.073686599964276
+  },
+  {
+    "model": "bagging",
+    "n_learners": 50,
+    "actual_learners": 50,
+    "train_accuracy": 1.0,
+    "validation_accuracy": 0.8625,
+    "test_accuracy": 0.8625,
+    "fit_seconds": 108.9478906999575
+  },
+  {
+    "model": "boosting",
+    "n_learners": 50,
+    "actual_learners": 50,
+    "train_accuracy": 0.8041666666666667,
+    "validation_accuracy": 0.3875,
+    "test_accuracy": 0.3125,
+    "fit_seconds": 34.853100300068036
+  },
+  {
+    "model": "bagging",
+    "n_learners": 100,
+    "actual_learners": 100,
+    "train_accuracy": 1.0,
+    "validation_accuracy": 0.9,
+    "test_accuracy": 0.9,
+    "fit_seconds": 201.06788759992924
+  },
+  {
+    "model": "boosting",
+    "n_learners": 100,
+    "actual_learners": 100,
+    "train_accuracy": 0.9875,
+    "validation_accuracy": 0.375,
+    "test_accuracy": 0.4625,
+    "fit_seconds": 59.847268800018355
+  }
+]

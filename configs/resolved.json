@@ -1,9 +1,9 @@
 {
-  "seed": 99,
-  "seed_is_provisional": true,
-  "roll_number": null,
-  "student_name": null,
-  "repository_url": null,
+  "seed": 26509,
+  "seed_is_provisional": false,
+  "roll_number": "M26ECM509",
+  "student_name": "Shivansh Gusain",
+  "repository_url": "https://github.com/azraelAzrael12345/ml-assignment-2",
   "n_jobs": 4,
   "tree_depths": [
     2,

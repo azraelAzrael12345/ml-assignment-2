@@ -1,0 +1,26 @@
+[
+  {
+    "model": "tree",
+    "clean_accuracy": 0.6375,
+    "masked_accuracy": 0.475,
+    "clean_confidence": 0.99375,
+    "masked_confidence": 0.99375,
+    "accuracy_drop": 0.16249999999999998
+  },
+  {
+    "model": "bagging",
+    "clean_accuracy": 0.9125,
+    "masked_accuracy": 0.7875,
+    "clean_confidence": 0.38868749999999996,
+    "masked_confidence": 0.27518750000000003,
+    "accuracy_drop": 0.125
+  },
+  {
+    "model": "boosting",
+    "clean_accuracy": 0.3125,
+    "masked_accuracy": 0.2875,
+    "clean_confidence": 0.13294708126439467,
+    "masked_confidence": 0.13202810248171093,
+    "accuracy_drop": 0.025000000000000022
+  }
+]

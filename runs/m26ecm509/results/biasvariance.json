@@ -1,0 +1,38 @@
+[
+  {
+    "model": "tree",
+    "bias_squared": 0.36009027777777775,
+    "variance": 0.6230347222222222,
+    "brier_mse": 0.983125,
+    "mean_accuracy": 0.5083333333333333,
+    "std_accuracy": 0.0588442323270592,
+    "n_leaves": 40.03333333333333,
+    "mean_leaf_samples": 5.995121951219512,
+    "singleton_fraction": 0.0,
+    "disagreement": null
+  },
+  {
+    "model": "bagging",
+    "bias_squared": 0.5134167680555556,
+    "variance": 0.02116719027777778,
+    "brier_mse": 0.5345839583333334,
+    "mean_accuracy": 0.7883333333333333,
+    "std_accuracy": 0.03669147541072848,
+    "n_leaves": 44.7365,
+    "mean_leaf_samples": 5.374161325679625,
+    "singleton_fraction": 0.0,
+    "disagreement": 0.8161701423785596
+  },
+  {
+    "model": "boosting",
+    "bias_squared": 0.8784510199232465,
+    "variance": 0.023084927472733784,
+    "brier_mse": 0.9015359473959802,
+    "mean_accuracy": 0.30250000000000005,
+    "std_accuracy": 0.0890805524656544,
+    "n_leaves": 7.943333333333333,
+    "mean_leaf_samples": 32.05970118770119,
+    "singleton_fraction": 0.12103745513745512,
+    "disagreement": null
+  }
+]

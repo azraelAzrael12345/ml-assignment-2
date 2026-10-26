@@ -1,0 +1,162 @@
+[
+  {
+    "depth": 1,
+    "rounds": 10,
+    "actual_rounds": 10,
+    "train_accuracy": 0.05,
+    "validation_accuracy": 0.05,
+    "test_accuracy": 0.05,
+    "fit_seconds": 1.8059470999287441,
+    "termination": "requested_rounds"
+  },
+  {
+    "depth": 1,
+    "rounds": 25,
+    "actual_rounds": 25,
+    "train_accuracy": 0.05,
+    "validation_accuracy": 0.05,
+    "test_accuracy": 0.05,
+    "fit_seconds": 4.110186299891211,
+    "termination": "requested_rounds"
+  },
+  {
+    "depth": 1,
+    "rounds": 50,
+    "actual_rounds": 50,
+    "train_accuracy": 0.1375,
+    "validation_accuracy": 0.1125,
+    "test_accuracy": 0.1,
+    "fit_seconds": 7.895890499930829,
+    "termination": "requested_rounds"
+  },
+  {
+    "depth": 1,
+    "rounds": 100,
+    "actual_rounds": 100,
+    "train_accuracy": 0.16666666666666666,
+    "validation_accuracy": 0.1375,
+    "test_accuracy": 0.1375,
+    "fit_seconds": 15.482263299985789,
+    "termination": "requested_rounds"
+  },
+  {
+    "depth": 2,
+    "rounds": 10,
+    "actual_rounds": 10,
+    "train_accuracy": 0.10416666666666667,
+    "validation_accuracy": 0.075,
+    "test_accuracy": 0.075,
+    "fit_seconds": 2.9943374000722542,
+    "termination": "requested_rounds"
+  },
+  {
+    "depth": 2,
+    "rounds": 25,
+    "actual_rounds": 25,
+    "train_accuracy": 0.2708333333333333,
+    "validation_accuracy": 0.1625,
+    "test_accuracy": 0.2,
+    "fit_seconds": 7.527246000012383,
+    "termination": "requested_rounds"
+  },
+  {
+    "depth": 2,
+    "rounds": 50,
+    "actual_rounds": 50,
+    "train_accuracy": 0.3458333333333333,
+    "validation_accuracy": 0.125,
+    "test_accuracy": 0.2375,
+    "fit_seconds": 15.015784100047313,
+    "termination": "requested_rounds"
+  },
+  {
+    "depth": 2,
+    "rounds": 100,
+    "actual_rounds": 100,
+    "train_accuracy": 0.36666666666666664,
+    "validation_accuracy": 0.2125,
+    "test_accuracy": 0.1625,
+    "fit_seconds": 30.102912400034256,
+    "termination": "requested_rounds"
+  },
+  {
+    "depth": 3,
+    "rounds": 10,
+    "actual_rounds": 10,
+    "train_accuracy": 0.18333333333333332,
+    "validation_accuracy": 0.1,
+    "test_accuracy": 0.1375,
+    "fit_seconds": 4.539640799979679,
+    "termination": "requested_rounds"
+  },
+  {
+    "depth": 3,
+    "rounds": 25,
+    "actual_rounds": 25,
+    "train_accuracy": 0.3125,
+    "validation_accuracy": 0.2,
+    "test_accuracy": 0.2,
+    "fit_seconds": 11.30977199994959,
+    "termination": "requested_rounds"
+  },
+  {
+    "depth": 3,
+    "rounds": 50,
+    "actual_rounds": 50,
+    "train_accuracy": 0.37083333333333335,
+    "validation_accuracy": 0.225,
+    "test_accuracy": 0.25,
+    "fit_seconds": 22.852728799916804,
+    "termination": "requested_rounds"
+  },
+  {
+    "depth": 3,
+    "rounds": 100,
+    "actual_rounds": 100,
+    "train_accuracy": 0.6333333333333333,
+    "validation_accuracy": 0.2125,
+    "test_accuracy": 0.3125,
+    "fit_seconds": 45.591540699941106,
+    "termination": "requested_rounds"
+  },
+  {
+    "depth": 4,
+    "rounds": 10,
+    "actual_rounds": 10,
+    "train_accuracy": 0.35,
+    "validation_accuracy": 0.2125,
+    "test_accuracy": 0.2625,
+    "fit_seconds": 5.982975499937311,
+    "termination": "requested_rounds"
+  },
+  {
+    "depth": 4,
+    "rounds": 25,
+    "actual_rounds": 25,
+    "train_accuracy": 0.55,
+    "validation_accuracy": 0.2125,
+    "test_accuracy": 0.225,
+    "fit_seconds": 14.994763299939223,
+    "termination": "requested_rounds"
+  },
+  {
+    "depth": 4,
+    "rounds": 50,
+    "actual_rounds": 50,
+    "train_accuracy": 0.8041666666666667,
+    "validation_accuracy": 0.3875,
+    "test_accuracy": 0.3125,
+    "fit_seconds": 29.904459099983796,
+    "termination": "requested_rounds"
+  },
+  {
+    "depth": 4,
+    "rounds": 100,
+    "actual_rounds": 100,
+    "train_accuracy": 0.9875,
+    "validation_accuracy": 0.375,
+    "test_accuracy": 0.4625,
+    "fit_seconds": 59.99901539995335,
+    "termination": "requested_rounds"
+  }
+]
